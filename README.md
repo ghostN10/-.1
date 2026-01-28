@@ -1,2 +1,2 @@
-# -.1
-AT 
+#iclude<stdio.h>
+int main(){}
